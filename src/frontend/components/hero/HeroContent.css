@@ -1,0 +1,54 @@
+.homepage-content{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 4cm;
+}
+.Explore{
+    margin: 3.5cm 0 16px 0;
+    color: rgba(255, 255, 255, 0.91);
+    text-align: center;
+    /* font-family: roboto; */
+    font-size: 63px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.top-destination {
+    height: 39px;
+    color: #ffbf0a;
+    font-size: 39px;
+    font-weight: 400;
+}
+
+.destinations {
+    display: flex;
+    justify-content: center;
+    width: 1158px;
+    border-radius: 60px;
+    background: rgba(248, 248, 248, 0.6);
+    margin-bottom: 30px;
+}
+
+.menu-ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    list-style: none;
+    gap: 15px;
+}
+
+ .menu-ul li:hover {
+color: rgba(255, 255, 255, 0.91);
+background-color: #0F0F0F;
+cursor: pointer;
+}
+
+.menu-ul li {
+    color: #0F0F0F;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}

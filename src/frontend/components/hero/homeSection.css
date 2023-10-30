@@ -1,0 +1,9 @@
+.hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://image.cnbcfm.com/api/v1/image/106900812-1624372197034-gettyimages-1267442997-dsc08065.jpeg?v=1673625601);
+    background-size: cover; /* Adjust to your image size preference */
+    background-position: bottom; /* Adjust to your image position preference */
+    color: #fff; /* Text color for contrast */
+    text-align: center;
+    min-height: 400px;
+}
+
